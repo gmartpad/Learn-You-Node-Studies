@@ -1,0 +1,18 @@
+{
+  "name": "nodejedi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preemperor": "echo 'Heresy!'",
+    "emperor": "echo 'For the Emperor!'",
+    "postemperor": "echo 'Blood for the Blood God!'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
