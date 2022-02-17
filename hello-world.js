@@ -1,3 +1,3 @@
-// Gerando um console log que emitirá a mensagem "HELLO WORLD"
+// Executing a console log that'll emit a "HELLO WORLD" message
 
 console.log("HELLO WORLD");
